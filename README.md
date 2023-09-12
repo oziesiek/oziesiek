@@ -2,7 +2,10 @@
 
 📫 How to reach me: [email.pawelorzechowski@gmail.com](mailto:email.pawelorzechowski@gmail.com)
 
-Connect with me on [![LinkedIn](https://github.com/oziesiek/oziesiek/assets/110523018/resized-linkedin-image.png)](https://linkedin.com/in/pawel-orzechowski-396a7425a)
+Connect with me: <br>
+[![LinkedIn](https://github.com/oziesiek/oziesiek/assets/110523018/24fdb71e-8e23-4975-9466-162355363421)](https://www.linkedin.com/in/your-linkedin-profile)
+
+
 
 Languages and Tools: <br>
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/c7d26ea9-e64e-45b9-aed1-01d47cc30b9c" width="50" height="50">
