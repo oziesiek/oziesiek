@@ -3,8 +3,7 @@
 📫 How to reach me: [email.pawelorzechowski@gmail.com](mailto:email.pawelorzechowski@gmail.com)
 
 Connect with me: <br>
-<img src="https://github.com/oziesiek/oziesiek/assets/110523018/1580c228-8a7d-4224-96f1-e2f475c90529" width="50" height="50">
-[![LinkedIn](https://github.com/oziesiek/oziesiek/assets/110523018/1580c228-8a7d-4224-96f1-e2f475c90529)](https://linkedin.com/in/paweł-orzechowski-396a7425a)
+(https://github.com/oziesiek/oziesiek/assets/110523018/1580c228-8a7d-4224-96f1-e2f475c90529)](https://linkedin.com/in/paweł-orzechowski-396a7425a)
 
 
 Languages and Tools: <br>
