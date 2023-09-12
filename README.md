@@ -3,7 +3,7 @@
 📫 How to reach me: [email.pawelorzechowski@gmail.com](mailto:email.pawelorzechowski@gmail.com)
 
 Connect with me: <br>
-<a href="https://linkedin.com/in/paweł-orzechowski-396a7425a" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-lewczak" height="30" width="40" style="max-width: 100%;"></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-lewczak" height="30" width="40" style="max-width: 100%;">
+<a href="https://linkedin.com/in/paweł-orzechowski-396a7425a" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-lewczak" height="30" width="40" style="max-width: 100%;"></a>
 
 
 Languages and Tools: <br>
