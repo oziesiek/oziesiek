@@ -11,7 +11,7 @@ Languages and Tools: <br><br>
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/91d7056f-d8b3-4e26-ab23-15fca58ceb81" width="50" height="50">
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/9890b6d2-0cf1-40b9-a533-5ef7b99fd133" width="50" height="50">
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/55fbe1ae-45ce-4b23-b370-00cc7396da30" width="50" height="50">
-
+<img src="https://github.com/oziesiek/oziesiek/assets/110523018/b1aadcc6-2f67-4561-8fdb-cd908f56d893" width="50" height="50">
 </h2>
 
 <!--
