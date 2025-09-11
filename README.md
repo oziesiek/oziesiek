@@ -11,6 +11,6 @@ Languages and Tools: <br><br>
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/91d7056f-d8b3-4e26-ab23-15fca58ceb81" width="50" height="50">
 <img src="https://github.com/oziesiek/oziesiek/assets/110523018/9890b6d2-0cf1-40b9-a533-5ef7b99fd133" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="50" height="50">
-<img src="https%3A%2F%2Fwww.ucyfer.com%2Fclients%2Fclient04%2F&psig=AOvVaw1Uk2W8CdRHhPP46v5gF0ZJ&ust=1757695380774000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC5pNuT0Y8DFQAAAAAdAAAAABAY" width="50" height="50">
+<img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" width="50" height="50">
 </h2>
 
