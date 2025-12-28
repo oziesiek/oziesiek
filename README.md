@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paweł
 
-📫 <h2>Connect with me: <br><br>
+<h2>📫 Connect with me: <br><br>
 <a href="https://linkedin.com/in/paweł-orzechowski-396a7425a" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-orzechowski-396a7425a" height="50" width="50" style="max-width: 100%;"></a>
 
 <be><br>
