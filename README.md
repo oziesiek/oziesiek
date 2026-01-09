@@ -2,7 +2,7 @@
 
 <h2>📫 Connect with me: <br>
 📧 pawel.orzechowski@gmx.com <br>
-🌐 pawel-orzechowski.pl <br> <br>
+🌐 pawel-orzechowski.pl <br> 
 <a href="https://linkedin.com/in/paweł-orzechowski-396a7425a" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-orzechowski-396a7425a" height="25" width="25" style="max-width: 100%;"> LinkedIn</a>
 
 <be><br>
