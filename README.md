@@ -3,7 +3,7 @@
 ## 📫 Connect with me:
 
 📧 pawel.orzechowski@gmx.com  
-🌐 pawel-orzechowski.pl  
+🌐 <a href="https://pawel-orzechowski.pl">pawel-orzechowski.pl</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paweł%20Orzechowski-blue?logo=linkedin)](https://linkedin.com/in/pawel-orzechowski-)
 
