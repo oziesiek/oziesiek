@@ -5,10 +5,12 @@
 📧 pawel.orzechowski@gmx.com  
 🌐 pawel-orzechowski.pl  
 
-<a href="https://linkedin.com/in/pawel-orzechowski-" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">
-</a>
-<a href="https://linkedin.com/in/pawel-orzechowski-" rel="nofollow">LinkedIn</a>
+<p>
+  <a href="https://linkedin.com/in/pawel-orzechowski-" rel="nofollow" style="white-space: nowrap;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="vertical-align: middle;">
+    <span style="vertical-align: middle;"> LinkedIn</span>
+  </a>
+</p>
 
 ---
 
